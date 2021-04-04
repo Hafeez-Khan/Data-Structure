@@ -1,7 +1,7 @@
 # Description #
 Working on creating the basic repo needed for new grads in CS. You might not be asked to implement these functions but you should know them to solve a problem on an interview.
 
-# What to expect#
+# What to expect #
 * Binary Search Trees
   * insert (putting a node into your tree at the correct position)
   * delete (deleting a node and than repositioning the tree)
